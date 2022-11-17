@@ -464,6 +464,26 @@
     line-height: normal;
     font-stretch: normal;
     text-decoration: none;
+
+    /* Концерт */
+
+
+    /* position: absolute;
+    width: 75px;
+    height: 22px;
+    left: 20px;
+    top: 210px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px; */
+    /* identical to box height */
+
+
+    color: #595959;
+
   }
   .mac-book-air1-text52 {
     top: 28px;
@@ -569,8 +589,8 @@
     position: absolute;
     width: 148px;
     height: 39px;
-    left: 20px;
-    top: 38px;
+    /* left: 20px; */
+    /* top: 38px; */
 
     font-family: 'Inter';
     font-style: normal;
@@ -589,8 +609,8 @@
     position: absolute;
     width: 24px;
     height: 39px;
-    left: 145px;
-    top: 38px;
+    left: 125px;
+    /* top: 38px; */
 
     font-family: 'Inter';
     font-style: normal;
@@ -623,3 +643,13 @@
     position: absolute;
   }
   
+.circle{
+
+    height: 55px;
+    width: 55px;
+    /* background-color: #bbb; */
+    border-radius: 50%;
+    display: inline-block;
+    border: 1px solid #000000;
+        
+}
