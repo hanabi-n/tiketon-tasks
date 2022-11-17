@@ -635,12 +635,14 @@
 
 
 
-  .mac-book-air1-divide {
-    top: 0px;
+  .mac-book-air1-divide-line {
+    /* top: 0px;
     left: 640px;
     width: 832px;
     height: 0px;
-    position: absolute;
+    position: absolute; */
+    border-left: 6px solid #fb882b;
+    height: 848px;
   }
   
 .circle{
