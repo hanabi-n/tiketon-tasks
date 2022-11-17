@@ -562,27 +562,59 @@
     background-color: transparent;
   }
   .mac-book-air1-text58 {
-    color: rgba(0, 0, 0, 1);
-    height: auto;
+
+    /* TIKET N */
+
+
     position: absolute;
+    width: 148px;
+    height: 39px;
+    left: 20px;
+    top: 38px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
     font-size: 32px;
-    align-self: auto;
-    font-style: Semi Bold;
-    text-align: left;
-    font-family: Inter;
-    font-weight: 700;
-    line-height: normal;
-    font-stretch: normal;
-    text-decoration: none;
+    line-height: 39px;
+    /* identical to box height */
+    color: #000000;
   }
-  .mac-book-air1-rectangle1 {
-    top: 4px;
-    left: 90px;
-    width: 36px;
-    height: 31px;
+
+  .mac-book-air1-text59 {
+
+    /* N */
+
+
     position: absolute;
-    border-color: transparent;
+    width: 24px;
+    height: 39px;
+    left: 145px;
+    top: 38px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 39px;
+    /* identical to box height */
+
+
+    color: #000000;
+
   }
+
+  .mac-book-air1-rectangle1 {
+    position: absolute;
+    width: 33px;
+    height: 33px;
+    left: 93px;
+    top: 3px;
+    background: url(unnamed.png);
+  }
+
+
+
   .mac-book-air1-divide {
     top: 0px;
     left: 640px;
